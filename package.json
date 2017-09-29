@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A chat application built with node, mongodb, express and socket.io for Soccer lovers. ",
   "main": "index.js",
-  "engine": {
+  "engines": {
       "node": "8.5.0",
       "npm": "4.6.1"
   },
