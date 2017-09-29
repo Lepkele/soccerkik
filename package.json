@@ -4,8 +4,8 @@
   "description": "A chat application built with node, mongodb, express and socket.io for Soccer lovers. ",
   "main": "index.js",
   "engines": {
-      "node": "8.5.0",
-      "npm": "4.6.1"
+    "node": "8.5.0",
+    "npm": "5.4.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -38,6 +38,7 @@
     "express-session": "^1.15.6",
     "express-validator": "^4.2.1",
     "flash": "^1.1.0",
+    "forever": "^0.15.3",
     "formidable": "^1.1.1",
     "helmet": "^3.8.2",
     "lodash": "^4.17.4",
