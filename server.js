@@ -18,7 +18,7 @@ const helmet = require('helmet');
 
 const container = require('./container');
 
-
+//server
 
 container.resolve(function(users, _, admin, home, group, results, privatechat, profile, interests, news){
     
